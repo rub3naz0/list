@@ -1,8 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. La Resistencia (Movil)" tvg-logo="http://swedtv.vip/logos/EU-Espa%c3%b1a-Entretenimiento/M_La_Resistencia.png" group-title="EU - España Entretenimiento",ES: M. La Resistencia (Movil)
+
 http://vip.tv-21.titanpro.cc:2095/rubenjimenez/jimenezruben/577999.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. La Resistencia SD" tvg-logo="http://swedtv.vip/logos/EU-Espa%c3%b1a-Entretenimiento/M_La_Resistencia.png" group-title="EU - España Entretenimiento",ES: M. La Resistencia SD
+
 http://vip.tv-21.titanpro.cc:2095/rubenjimenez/jimenezruben/415860.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. La Resistencia HD" tvg-logo="http://swedtv.vip/logos/EU-Espa%c3%b1a-Entretenimiento/M_La_Resistencia.png" group-title="EU - España Entretenimiento",ES: M. La Resistencia HD
+
 http://vip.tv-21.titanpro.cc:2095/rubenjimenez/jimenezruben/499509.ts
